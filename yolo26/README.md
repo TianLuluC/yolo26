@@ -1,6 +1,4 @@
-# test
-# test1
-# Creating a new branch is quick & simple.
+# v1.0
 ## Introduction
 
 
